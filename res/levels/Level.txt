@@ -1,0 +1,60 @@
+1  6                       6  Flames.png Bomberman Goddess.png
+2  3  3                    6  Bombs.png  Bomberman Nakamoto.png
+3  2  2  2                 6  Detonator.png  Bomberman Famicom.png
+4  1  1  2  2              6  Speed.png  Bomberman Bottle.png
+5     4  3                 7  Bombs.png  Bomberman Dezeniman.png
+A  ∞                       ∞
+6     2  3  2              7  Bombs.png  Bomberman Bonus.png
+7     2  3     2           7  Flames.png Bomberman Goddess.png
+8     1  2  4              7  Detonator.png  Bomberman Bonus.png
+9     1  1  4  1           7  Bombpass.png   Bomberman Goddess.png
+10    1  1  1  3  1        7  Wallpass.png   Bomberman Nakamoto.png
+B     ∞                    ∞
+11    1  2  3  1  1        8  Bombs.png  Bomberman Famicom.png
+12    1  1  1  4  1        8  Bombs.png  Bomberman Bottle.png
+13       3  3  3           9  Detonator.png  Bomberman Dezeniman.png
+14                7  1     8  Bombpass.png   Bomberman Bonus.png
+15       1  3  3     1     8  Flames.png Bomberman Goddess.png
+C        ∞                 ∞
+16          3  4     1     8  Wallpass.png   Bomberman Bonus.png
+17       5     2     1     8  Bombs.png  Bomberman Goddess.png
+18 3  3              2     8  Bombpass.png   Bomberman Nakamoto.png
+19 1  1  3        1  2     8  Bombs.png  Bomberman Famicom.png
+20    1  1  1  2  1  2     8  Detonator.png  Bomberman Bottle.png
+D           ∞              ∞
+21             4  3  2     9  Bombpass.png   Bomberman Dezeniman.png
+22       4  3  1     1     9  Detonator.png  Bomberman Bonus.png
+23       2  2  2  2  1     9  Bombs.png  Bomberman Goddess.png
+24       1  1  4  2  1     9  Detonator.png  Bomberman Bonus.png
+25    2  1  1  2  2  1     9  Bombpass.png   Bomberman Goddess.png
+E                 ∞        ∞
+26 1  1  1  1  2  1  1     8  Mystery.png    Bomberman Nakamoto.png
+27 1  1        5  1  1     9  Flames.png Bomberman Famicom.png
+28    1  3  3  1     1     9  Bombs.png  Bomberman Bottle.png
+29             2  5  2     9  Detonator.png  Bomberman Dezeniman.png
+30       3  2  1  2  1     9  Flamepass.png  Bomberman Bonus.png
+F              ∞           ∞
+31    2  2  2  2  2        10 Wallpass.png   Bomberman Goddess.png
+32    1  1  3  4     1     10 Bombs.png  Bomberman Bonus.png
+33       2  2  3  1  2     10 Detonator.png  Bomberman Goddess.png
+34       2  3  3     2     10 Mystery.png    Bomberman Nakamoto.png
+35       2  1  3  1  2     10 Bombpass.png   Bomberman Famicom.png
+G                    ∞     ∞
+36       2  2  3     3     10 Flamepass.png  Bomberman Bottle.png
+37       2  1  3  1  3     10 Detonator.png  Bomberman Dezeniman.png
+38       2  2  3     3     10 Flames.png Bomberman Bonus.png
+39       1  1  2  2  4     10 Wallpass.png   Bomberman Goddess.png
+H                       ∞  ∞
+40       1  2  3     4     10 Mystery.png    Bomberman Bonus.png
+41       1  1  3  1  4     10 Detonator.png  Bomberman Goddess.png
+42          1  3  1  5     10 Wallpass.png   Bomberman Nakamoto.png
+43          1  2  1  6     10 Bombpass.png   Bomberman Famicom.png
+44          1  2  1  6     10 Detonator.png  Bomberman Bottle.png
+I                       ∞  ∞
+45             2  2  6     10 Mystery.png    Bomberman Dezeniman.png
+46             2  2  6     10 Wallpass.png   Bomberman Bonus.png
+47             2  2  6     10 Bombpass.png   Bomberman Goddess.png
+48             2  1  6  1  10 Detonator.png  Bomberman Bonus.png
+49             1  2  6  1  10 Flamepass.png  Bomberman Goddess.png
+J                       ∞  ∞
+50             1  2  5  2  10 Mystery.png    Bomberman Nakamoto.png
